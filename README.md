@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lpmanning
 - 👀 I’m interested in data visualizations and AI/ML
-- 🌱 I’m currently learning Java and Assembly Language
+- 🌱 I’m currently learning Algorithms and Software Development
 - 💞️ I’m looking to collaborate on creating apps with Swift and Xcode
 - 📫 How to reach me: liapantusa@gmail.com
 - 😄 Pronouns: she/her/hers
